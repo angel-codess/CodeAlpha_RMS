@@ -20,4 +20,7 @@ Frontend: React, React Router Backend: Django + Django REST Framework (microserv
 
 🔗 API Endpoints
 
-Menu Service → http://127.0.0.1:8001/api/menu/ Orders Service → http://127.0.0.1:8002/api/order/ Reservations Service → http://127.0.0.1:8003/api/reservation/ Inventory Service → http://127.0.0.1:8004/api/inventory/
+Menu Service → http://127.0.0.1:8001/api/menu/ 
+Orders Service → http://127.0.0.1:8002/api/order/ 
+Reservations Service → http://127.0.0.1:8003/api/reservation/ 
+Inventory Service → http://127.0.0.1:8004/api/inventory/
